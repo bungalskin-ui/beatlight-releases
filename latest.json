@@ -1,11 +1,11 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.2",
   "shell": 1,
-  "notes": "• Test-Update: Wenn du diesen Text siehst und das Update funktioniert, arbeitet der Updater richtig.\n• Echte Vorschaubilder statt Symbolen (Clips, Quellen, Videos, Szenen)",
+  "notes": "• Korrektur: Das Installieren eines Updates meldete fälschlich „Programmordner schreibgeschützt“ – behoben\n• Nach dem Neustart meldet BeatLight, ob das Update geklappt hat\n• Echte Vorschaubilder statt Symbolen (Clips, Quellen, Videos, Szenen)",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.6.1.asar",
-    "sha256": "9c62388af80758866846282db59deec77b91cf8eaf0a0b4505afadec10b77d45",
-    "size": 2200402
+    "file": "app-2.6.2.asar",
+    "sha256": "b9ad77bff4f8dd0b4450560b8587d8c56ec387742dfdacbcf322a192d1cfe9af",
+    "size": 2202291
   }
 }
