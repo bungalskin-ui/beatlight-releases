@@ -1,11 +1,11 @@
 {
-  "version": "2.6.3",
+  "version": "2.7.0",
   "shell": 1,
-  "notes": "• Mac: BeatLight bietet beim ersten Start an, sich selbst in den Ordner „Programme“ zu verschieben (dann klappen Updates von allein)\n• Korrektur beim Installieren von Updates, Meldung nach dem Neustart\n• Echte Vorschaubilder statt Symbolen (Clips, Quellen, Videos, Szenen)",
+  "notes": "• Neu: Mehrere Bildschirme direkt am Knopf „▶ Ausgabe ▾“ wählen – ohne Auswahl wird auf allen angeschlossenen Zusatz-Bildschirmen ausgegeben\n• Aufgeräumt: toten Code entfernt, alle Selbsttests laufen mit „npm test“",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.6.3.asar",
-    "sha256": "5a98e8455eec93045115839d4721a2fb5266618edae0a5e759690ef560cb46f0",
-    "size": 2203713
+    "file": "app-2.7.0.asar",
+    "sha256": "61745a1dd59ed370004763e62c3aa5a0a28385ad9536955f3500869eb9960bc7",
+    "size": 2205357
   }
 }
