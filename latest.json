@@ -1,11 +1,11 @@
 {
-  "version": "2.6.2",
+  "version": "2.6.3",
   "shell": 1,
-  "notes": "• Korrektur: Das Installieren eines Updates meldete fälschlich „Programmordner schreibgeschützt“ – behoben\n• Nach dem Neustart meldet BeatLight, ob das Update geklappt hat\n• Echte Vorschaubilder statt Symbolen (Clips, Quellen, Videos, Szenen)",
+  "notes": "• Mac: BeatLight bietet beim ersten Start an, sich selbst in den Ordner „Programme“ zu verschieben (dann klappen Updates von allein)\n• Korrektur beim Installieren von Updates, Meldung nach dem Neustart\n• Echte Vorschaubilder statt Symbolen (Clips, Quellen, Videos, Szenen)",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.6.2.asar",
-    "sha256": "b9ad77bff4f8dd0b4450560b8587d8c56ec387742dfdacbcf322a192d1cfe9af",
-    "size": 2202291
+    "file": "app-2.6.3.asar",
+    "sha256": "5a98e8455eec93045115839d4721a2fb5266618edae0a5e759690ef560cb46f0",
+    "size": 2203713
   }
 }
