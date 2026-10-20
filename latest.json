@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
+  "version": "2.8.0",
   "shell": 1,
-  "notes": "• Neu: Mehrere Bildschirme direkt am Knopf „▶ Ausgabe ▾“ wählen – ohne Auswahl wird auf allen angeschlossenen Zusatz-Bildschirmen ausgegeben\n• Aufgeräumt: toten Code entfernt, alle Selbsttests laufen mit „npm test“",
+  "notes": "• Neu: Effekte gelten jetzt wahlweise für das Gesamtbild, eine einzelne Ebene oder nur den aktuellen Clip (z. B. nur für Plasma oder Kreis-Equalizer) – Auswahl oben im Tab „Effekte“\n• Neu: Blitze, Kreis-Equalizer & Co. zeigen als Überlagerung nur ihre Formen – der Hintergrund ist durchsichtig, die anderen Ebenen bleiben sichtbar",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.7.0.asar",
-    "sha256": "61745a1dd59ed370004763e62c3aa5a0a28385ad9536955f3500869eb9960bc7",
-    "size": 2205357
+    "file": "app-2.8.0.asar",
+    "sha256": "20fdc7000e0e519541404374694a65fb0f71277c26eb1ab42cf8a536fe4edc6a",
+    "size": 2207715
   }
 }
