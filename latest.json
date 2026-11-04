@@ -1,26 +1,26 @@
 {
-  "version": "2.9.0",
+  "version": "2.9.1",
   "shell": 1,
-  "notes": "• Neu: Eigenes BeatLight-Logo\n• Neu: Von Apple geprüft (signiert und notarisiert), keine Warnung mehr beim Öffnen\n• Neu: BeatLight zieht beim Start selbst in den Ordner „Programme“\n• Geändert: Das SoLight-Logo und die SoLight-Namen sind entfernt, gespeicherte Projekte werden automatisch angepasst (Szenen heißen jetzt „Tiefblau“ und „Blaustrahl“)",
+  "notes": "• Neu: Auf dem Mac startet BeatLight mit deinem Konto aus der Veranstaltungs-Toolbox\n• Neu: Nach der Anmeldung läuft BeatLight auch bis zu 14 Tage ohne Internet",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.9.0.asar",
-    "sha256": "27c387b03d3846900474866639c692cd5c02f639be34612b36cb896e87878a28",
-    "size": 1927366
+    "file": "app-2.9.1.asar",
+    "sha256": "70e1523e2824a06b87014ceeb00cf761f152cc93e4164f418be187928452f831",
+    "size": 1931355
   },
   "assets": [
     {
       "file": "BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.0/BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "03e3cd349620d20af28e599906b4ca4a2bdb1e2289ac6608483022797e28e234",
-      "size": 132210920,
+      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.1/BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "e2858f0c159b2dd7ee5353843bd781e6160dac9bd6d3083af98f435cc3518c4f",
+      "size": 132212471,
       "arch": "arm64"
     },
     {
       "file": "BeatLight-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.0/BeatLight-Mac-Intel.zip",
-      "sha256": "70de140ad58880a4af3cf86b59fe462d8ce860932ea9964ae019a5bee11d4cd1",
-      "size": 139203634,
+      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.1/BeatLight-Mac-Intel.zip",
+      "sha256": "99df75da0e07cb084c2e473dc2617500dd08a35154a206efb07d4955cbd01f7c",
+      "size": 139205152,
       "arch": "x86_64"
     }
   ]
