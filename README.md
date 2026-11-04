@@ -19,9 +19,8 @@ Welcher Mac? Apfel-Menü → „Über diesen Mac“: steht dort *Apple M…*, ni
 ## Installieren
 
 **Mac**
-1. Zip entpacken, `BeatLight` in den Ordner **Programme** ziehen.
-2. Beim ersten Öffnen erscheint „Nicht geöffnet“: Systemeinstellungen → Datenschutz & Sicherheit → unten **„Trotzdem öffnen“**.
-   (Alternativ im Terminal: `xattr -cr /Applications/BeatLight.app`)
+Am einfachsten über die [Veranstaltungs-Toolbox](https://bungalskin-ui.github.io/veranstaltungs-toolbox-releases/): ein Klick auf **Installieren**.
+Oder von Hand: Zip öffnen, `BeatLight` starten. Die App ist von Apple geprüft (signiert und notarisiert) und zieht beim ersten Start selbst in den Ordner **Programme**.
 
 **Windows**
 1. Zip entpacken, den Ordner `BeatLight` an einen beliebigen Platz legen, der beschreibbar ist (z. B. Dokumente oder Desktop – nicht „C:\Programme“).
