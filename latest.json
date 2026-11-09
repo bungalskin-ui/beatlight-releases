@@ -1,26 +1,26 @@
 {
-  "version": "2.9.1",
+  "version": "2.9.2",
   "shell": 1,
-  "notes": "• Neu: Auf dem Mac startet BeatLight mit deinem Konto aus der Veranstaltungs-Toolbox\n• Neu: Nach der Anmeldung läuft BeatLight auch bis zu 14 Tage ohne Internet",
+  "notes": "• Neu: Ruhigere Oberfläche, bunt ist nur noch das Bild selbst\n• Neu: Klare Linien-Icons statt Emoji, auch auf dem Stream Deck\n• Neu: Animiertes Dock-Icon auf dem Mac, es steht still, solange Licht läuft",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.9.1.asar",
-    "sha256": "70e1523e2824a06b87014ceeb00cf761f152cc93e4164f418be187928452f831",
-    "size": 1931355
+    "file": "app-2.9.2.asar",
+    "sha256": "cdc66c897a6dc0fb3a8e0c7cbdf5217553817b72a4ae78153f84c0b73d126752",
+    "size": 3343292
   },
   "assets": [
     {
       "file": "BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.1/BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "e2858f0c159b2dd7ee5353843bd781e6160dac9bd6d3083af98f435cc3518c4f",
-      "size": 132212471,
+      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.2/BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "a718402b4fcfcb9db732cd37c5dadedd7bf17adc8369d11724a437370292083e",
+      "size": 133609721,
       "arch": "arm64"
     },
     {
       "file": "BeatLight-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.1/BeatLight-Mac-Intel.zip",
-      "sha256": "99df75da0e07cb084c2e473dc2617500dd08a35154a206efb07d4955cbd01f7c",
-      "size": 139205152,
+      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.2/BeatLight-Mac-Intel.zip",
+      "sha256": "ae47b548eb5378825bcc684c80129cbc6afbf720eca06f69c884a02233afbc4f",
+      "size": 140602472,
       "arch": "x86_64"
     }
   ]
