@@ -1,26 +1,26 @@
 {
-  "version": "2.9.2",
+  "version": "2.9.3",
   "shell": 1,
-  "notes": "• Neu: Ruhigere Oberfläche, bunt ist nur noch das Bild selbst\n• Neu: Klare Linien-Icons statt Emoji, auch auf dem Stream Deck\n• Neu: Animiertes Dock-Icon auf dem Mac, es steht still, solange Licht läuft",
+  "notes": "• Neu: Ruhiges Standbild-Icon, das Dock-Icon bewegt sich nicht mehr",
   "page": "https://github.com/bungalskin-ui/beatlight-releases",
   "asset": {
-    "file": "app-2.9.2.asar",
-    "sha256": "cdc66c897a6dc0fb3a8e0c7cbdf5217553817b72a4ae78153f84c0b73d126752",
-    "size": 3343292
+    "file": "app-2.9.3.asar",
+    "sha256": "9c11647e415e9fbb8c2001c7c96f4f7a6153f682385c5473d45f31ca119e2e93",
+    "size": 3343349
   },
   "assets": [
     {
       "file": "BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.2/BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
-      "sha256": "a718402b4fcfcb9db732cd37c5dadedd7bf17adc8369d11724a437370292083e",
-      "size": 133609721,
+      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.3/BeatLight-Mac-AppleSilicon-M1-M2-M3-M4.zip",
+      "sha256": "607f186add4080641899675b1ba8d99b3073e63cd0f63f1b3b436d0704e8b0b0",
+      "size": 132951870,
       "arch": "arm64"
     },
     {
       "file": "BeatLight-Mac-Intel.zip",
-      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.2/BeatLight-Mac-Intel.zip",
-      "sha256": "ae47b548eb5378825bcc684c80129cbc6afbf720eca06f69c884a02233afbc4f",
-      "size": 140602472,
+      "url": "https://github.com/bungalskin-ui/beatlight-releases/releases/download/v2.9.3/BeatLight-Mac-Intel.zip",
+      "sha256": "c4635f034c57ae85444b368f268847039ade24890628bdeebd8cb87c92822cef",
+      "size": 139944543,
       "arch": "x86_64"
     }
   ]
